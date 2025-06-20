@@ -1,5 +1,5 @@
 /Positive_tensors/*
 /Negative_tensors/*
-
+/resources/*
 # Ignore virtual environments
 .venv/
